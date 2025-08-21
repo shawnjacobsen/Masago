@@ -1,4 +1,4 @@
-# masago (FOSS)
+# Masago (FOSS)
 A modern, fast, and open-source SSH session manager built in Go
 
 ## Features
